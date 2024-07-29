@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/d922b211-a06d-4224-9844-afa496a24775)![image](https://github.com/user-attachments/assets/7e114c70-626b-4939-b15a-1f6d83c0fece)# GLEN Demystifying Deep Credit Models in E-commerce Lending: An Explainable Approach to Consumer Creditworthiness
-Requirements
+#GLEN: Demystifying Deep Credit Models in E-commerce Lending: An Explainable Approach to Consumer Creditworthiness![Uploading image.png…]()
+
 Python == 3.9.
 
 Pytorch: 2.0.0+cu117, Numpy: 1.23.5, Pandas: 1.5.3, Matplotlib: 3.7.1
