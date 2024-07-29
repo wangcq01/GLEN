@@ -1,4 +1,4 @@
-#GLEN: Demystifying Deep Credit Models in E-commerce Lending: An Explainable Approach to Consumer Creditworthiness![Uploading image.png…]()
+#GLEN: Demystifying Deep Credit Models in E-commerce Lending: An Explainable Approach to Consumer Creditworthiness
 
 Python == 3.9.
 
